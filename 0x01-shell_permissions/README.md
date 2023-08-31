@@ -1,1 +1,2 @@
- shell permission echo 
+sheel permission ls
+echo sheel permission
